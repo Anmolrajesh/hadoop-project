@@ -1,1 +1,1 @@
-# hadoop-project
+# Analysis using Hive
